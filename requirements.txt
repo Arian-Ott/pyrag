@@ -1,0 +1,13 @@
+fastapi[all]
+uvicorn
+ruff
+sqlalchemy
+pymysql
+python-jose
+argon2-cffi
+python-multipart
+qdrant-client
+gensim
+spacy
+tensorflow
+openai
